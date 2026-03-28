@@ -2,11 +2,13 @@
 
 **Steven Denney** (Leiden University)
 
-**Last updated:** 22 March 2026
+**Last updated:** 28 March 2026
 
 ---
 
-Survey experiments rarely verify whether respondents process experimental stimuli as intended. This paper shows how open-text responses, combined with structural topic modeling and LLM classification, can fill that gap. Applied to conjoint experiments on immigrant naturalization in South Korea and Taiwan, both methods independently confirm that a civic integration cue shifts respondent reasoning toward civic engagement themes. Six LLM classifiers spanning 3B to 72B parameters produce consistent results.
+Survey experiments rarely verify whether respondents process experimental stimuli as intended. This paper develops a two-stage workflow for construct validation: structural topic modeling first discovers the empirical structure of open-text responses, and those findings then inform the design of a codebook for LLM classification. The topic model caught a measurement error in the initial codebook that the LLM alone would have reproduced faithfully.
+
+Applied to conjoint experiments on immigrant naturalization in South Korea (N=1,999) and Taiwan (N=2,050), both methods confirm that a civic integration cue shifts respondent reasoning toward civic engagement themes (7-18pp). Six LLM classifiers spanning 3B to 72B parameters produce consistent results (Fleiss' kappa = 0.745). Two extensions show the framework transfers to a standard conjoint design and validates against expert human-coded ground truth.
 
 ## Paper
 
