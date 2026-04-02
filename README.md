@@ -17,7 +17,7 @@ Applied to conjoint experiments on immigrant naturalization in South Korea (N=1,
 
 ## Citation
 
-> Denney, Steven. 2026. "What Were They Thinking? Using Open-Text Responses to Validate Constructs in Survey Experiments." Working Paper.
+> Denney, Steven. 2026. "What Were They Thinking? Using Open-Text Responses to Validate Constructs in Survey Experiments." Working Paper. https://github.com/scdenney/what-were-they-thinking
 
 ## Contact
 
