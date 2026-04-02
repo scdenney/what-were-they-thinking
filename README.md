@@ -17,11 +17,7 @@ Applied to conjoint experiments on immigrant naturalization in South Korea (N=1,
 
 ## Citation
 
-> Denney, Steven. 2026. "What Were They Thinking? Using Open-Text Responses to Validate Constructs in Survey Experiments." Working Paper. Leiden University.
-
-## Changes (1 April 2026)
-
-- Expanded discussion of AI-generated response threats to open-text survey validation, distinguishing between deception (bot farms) and delegation (respondent satisficing via AI). Inspired by Yamil Velez's [*Who Answered This Survey?*](https://newinstruments.substack.com/p/who-answered-this-survey) and building on [Westwood et al. (2025)](https://doi.org/10.1073/pnas.2518075122).
+> Denney, Steven. 2026. "What Were They Thinking? Using Open-Text Responses to Validate Constructs in Survey Experiments." Working Paper.
 
 ## Contact
 
